@@ -1,2 +1,2 @@
 # my-new-repo
-git clone <линк-към-хранилището>
+git clone <https://github.com/Feetiqu/my-new-repo.git>
